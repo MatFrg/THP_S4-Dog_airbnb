@@ -1,24 +1,16 @@
-# README
+# Dog Airbnb :dog:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to our Dog Airbnb Application! 
 
-Things you may want to cover:
+## Installation :wrench:
 
-* Ruby version
+```bash
+bundle install
+rails db:migrate #no idea why
+rails db:seed #To create a random database
+rails c #To browse the database
+```
 
-* System dependencies
+## Team  :heart:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Made in :beer: Strasbourg :beer: by Fleur Himmler, Jonas Audia, and Mathieu Farge ! 
